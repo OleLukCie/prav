@@ -1,0 +1,9 @@
+Whether you want to text your friends and family, or to make calls, prav app makes it easy for you. It provides convenient onboarding and user-friendly interface.
+
+We believe privacy is a fundamental right and should be easily exercised by anyone.
+
+With prav, your chats are private and only you can read them https://prav.app/privacy-policy/. It is based on XMPP protocol, so users can talk to any other XMPP users all over the world, without being locked-in to a service. 
+
+Prav's source code is available publicly under a free license, providing transparency and audatibility. We are backed by a cooperative society in India, leading to democratic decision making.
+
+Learn more at https://prav.app.
