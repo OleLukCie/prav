@@ -1,0 +1,7 @@
+98a99
+>         android:dataExtractionRules="@xml/data_extraction_rules"
+107a109,110
+>         tools:replace="android:label"
+>         android:localeConfig="@xml/locales_config"
+147a151
+> 				<action android:name="android.net.conn.CONNECTIVITY_CHANGE">
