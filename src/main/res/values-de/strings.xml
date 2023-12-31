@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_trustkey_general">%1$s ist nicht in der Lage, verschlüsselte Nachrichten an %2$s zu senden. Dies kann daran liegen, dass Ihr Kontakt einen veralteten Server oder Client verwendet, der keine Verschlüsselung (OMEMO) verarbeiten kann.</string>
+    <string name="action_block_contact">Kontakt blockieren</string>
+    <string name="verifying_omemo_keys_trusted_source">Sie sind im Begriff, die Verschlüsselungsschlüssel von %1$s zu überprüfen, nachdem Sie auf einen Link geklickt haben. Dies ist nur sicher, wenn Sie diesem Link von einer vertrauenswürdigen Quelle gefolgt sind, wo nur %2$s diesen Link veröffentlicht haben kann.</string>
+    <string name="disable_encryption_message">Sind Sie sicher, dass Sie die Verschlüsselung für diese Konversation deaktivieren wollen\?
+\nDadurch kann Ihr Server-Administrator Ihre Nachrichten lesen, aber es könnte die einzige Möglichkeit sein, mit Personen zu kommunizieren, die veraltete Clients verwenden.</string>
+    <string name="magic_create_text">Für die Einrichtung eines Kontos bei conversations.im wurde ein Leitfaden erstellt.
+\nWenn Sie conversations.im als Anbieter wählen, können Sie mit Benutzern anderer Anbieter kommunizieren, indem Sie ihnen Ihre vollständige XMPP-Adresse mitteilen.</string>
+    <string name="verifying_omemo_keys_trusted_source_account">Sie sind dabei, die Verschlüsselungsschlüssel Ihres eigenen Kontos zu überprüfen. Dies ist nur sicher, wenn Sie diesem Link aus einer vertrauenswürdigen Quelle gefolgt sind, in der nur Sie diesen Link veröffentlicht haben können.</string>
+    <string name="restore_warning">Verwenden Sie die Funktion \"Backup wiederherstellen\" nicht, um eine Installation zu klonen (gleichzeitig auszuführen). Die Wiederherstellung eines Backups ist nur für Migrationen oder für den Fall gedacht, dass Sie das Originalgerät verloren haben.</string>
+    <string name="action_end_conversation">Unterhaltung beenden</string>
+    <string name="action_unblock_contact">Kontakt entsperren</string>
+    <string name="action_edit_contact">Name bearbeiten</string>
+    <string name="action_add_account">Konto hinzufügen</string>
+    <string name="action_muc_details">Details zum Gruppenchat</string>
+    <string name="action_contact_details">Kontaktinformationen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_block_participant">Block Teilnehmer</string>
+    <string name="action_add">Neue Unterhaltung</string>
+    <string name="minutes_ago">vor %d Minuten</string>
+    <string name="action_delete_contact">Aus Kontakten entfernen</string>
+    <string name="nick_in_use">Spitzname wird bereits verwendet</string>
+    <string name="title_activity_start_conversation">Konversation beginnen</string>
+    <string name="minute_ago">vor 1 Minute</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="register_account">Neues Konto auf Server registrieren</string>
+    <string name="sending">Senden…</string>
+    <string name="change_password_on_server">Passwort auf Server ändern</string>
+    <string name="share_with">Teilen mit…</string>
+    <string name="action_add_phone_book">Zum Adressbuch hinzufügen</string>
+    <string name="title_activity_choose_contact">Kontakt auswählen</string>
+    <plurals name="hours">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="view_users">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="toast_delete_certificates">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_messages">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_x">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_m_contacts">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="some_messages_could_not_be_delivered">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_unread_conversations">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+</resources>

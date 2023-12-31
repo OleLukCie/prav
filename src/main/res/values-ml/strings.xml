@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="minutes_ago">%d മിനുട്ടുകൾ മുൻപ്</string>
+    <string name="admin">അഡ്മിൻ</string>
+    <string name="action_block_domain">ഡൊമൈൻ തടയു</string>
+    <string name="visitor">സന്ദർശകൻ</string>
+    <string name="remove_contact_text">%s നിങ്ങളുടെ സമ്പർക്ക പട്ടികയിൽ നിന്ന് മാറ്റണോ\? ഈ സമ്പർക്കത്തിൽ നിന്നുള്ള സംസാരങ്ങൾ മാറ്റില്ല.</string>
+    <string name="title_activity_sharewith">സംസാരത്തിലേയ്ക്ക് അയക്കു</string>
+    <string name="action_delete_contact">സമ്പർക്കത്തിൽ നിന്ന് മാറ്റു</string>
+    <string name="channel_details">ചാനൽ വിവരങ്ങൾ</string>
+    <string name="action_block_contact">സമ്പർക്കം തടയു</string>
+    <string name="action_unblock_domain">ഡൊമൈനിന്റെ തടയൽ മാറ്റു</string>
+    <string name="action_accounts">അക്കൗണ്ടുകൾ ക്രമീകരിക്കുക</string>
+    <string name="message_decrypting">സന്ദേശം കോഡ് ചെയ്തത് മാറ്റുന്നു. ദയവായി കാത്തിരിക്കു…</string>
+    <string name="nick_in_use">വട്ടപ്പേര് ഉപയോഗത്തിലുണ്ട്</string>
+    <string name="participant">പങ്കാളി</string>
+    <string name="action_account">അക്കൗണ്ട് ക്രമീകരിക്കു</string>
+    <string name="moderator">മോഡറേറ്റർ</string>
+    <string name="action_unblock_participant">പങ്കാളിയുടെ തടയൽ മാറ്റു</string>
+    <string name="action_end_conversation">സംസാരം അടയ്ക്കുക</string>
+    <string name="just_now">ഇപ്പോൾ</string>
+    <string name="block_contact_text">%s നെ സന്ദേശങ്ങൾ അയക്കുന്നതിൽ നിന്ന് തടയണോ\?</string>
+    <string name="action_unblock_contact">സമ്പർക്കത്തിന്റെ തടയൽ മാറ്റു</string>
+    <string name="invalid_muc_nick">വട്ടപ്പേര് ശരിയല്ല</string>
+    <string name="action_edit_contact">പേര് മാറ്റു</string>
+    <string name="owner">യജമാനൻ</string>
+    <string name="title_activity_start_conversation">സംസാരം തുടങ്ങു</string>
+    <string name="title_activity_share_via_account">അക്കൗണ്ടുകൾ വഴി പങ്കിടു</string>
+    <string name="pgp_message">OpenPGP എൻക്രിപ്റ്റ് ചെയ്ത സന്ദേശം</string>
+    <string name="minute_ago">ഒരു മിനിട്ട് മുൻപ്</string>
+    <string name="action_add_account">അക്കൗണ്ട് ചേർക്കു</string>
+    <string name="title_activity_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="action_muc_details">ഗ്രൂപ്പ് ചാറ്റ് വിവരങ്ങൾ</string>
+    <string name="action_contact_details">സമ്പർക്ക വിവരങ്ങൾ</string>
+    <string name="title_activity_block_list">തടയൽ പട്ടിക</string>
+    <string name="sending">അയക്കുന്നു…</string>
+    <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="title_activity_manage_accounts">അക്കൗണ്ടുകൾ ക്രമീകരിക്കു</string>
+    <string name="action_block_participant">പങ്കാളിയെ തടയു</string>
+    <string name="action_add_phone_book">സമ്പർക്ക പുസ്തകത്തിലോട്ട് ചേർക്കു</string>
+    <string name="title_activity_choose_contacts">സമ്പർക്കങ്ങൾ തെരഞ്ഞെടുക്കു</string>
+    <plurals name="x_unread_conversations">
+        <item quantity="one">%d വായിക്കാത്ത സംസാരം</item>
+        <item quantity="other">%d വായിക്കാത്ത സംസാരങ്ങൾ</item>
+    </plurals>
+    <string name="action_add">പുതിയ സംസാരം</string>
+    <string name="title_activity_choose_contact">സമ്പർക്കം തെരഞ്ഞെടുക്കു</string>
+    <string name="blocked">തടഞ്ഞു</string>
+    <string name="invite_contact">സമ്പർക്കത്തെ ക്ഷണിക്കുക</string>
+    <string name="contact_blocked">സമ്പർക്കം തടഞ്ഞു</string>
+    <string name="share_with">പങ്കിടുക…</string>
+    <string name="start_conversation">സംസാരം തുടങ്ങുക</string>
+    <string name="invite">ക്ഷണിക്കുക</string>
+    <plurals name="hours">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="view_users">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="toast_delete_certificates">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_messages">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_x">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_m_contacts">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="some_messages_could_not_be_delivered">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <string name="unblock_contact_text">%sനെ അൺബ്ലോക്ക് ചെയ്ത് നിങ്ങൾക്ക് സന്ദേശങ്ങൾ അയക്കാൻ അനുവദിക്കണമോ \?</string>
+    <string name="unblock_domain_text">%sൽ നിന്നുള്ള എല്ലാ ബന്ധങ്ങളുെ അൺബ്ലോക്ക് ചെയ്യണമോ</string>
+    <string name="block_domain_text">%sൽ നിന്നുള്ള എല്ലാ ബന്ധങ്ങളും വിച്ഛേദിക്കണമോ\?</string>
+    <string name="clear_conversation_history">സംഭാഷണ ഹിസ്റ്ററി മായ്ക്കുക</string>
+    <string name="save">സൂക്ഷിക്കുക</string>
+    <string name="set">ക്രമീകരിക്കുക</string>
+    <string name="crash_report_title">%1$s പ്രവര്‍ത്തനരഹിതമായിരിക്കുന്നു</string>
+    <string name="pref_ringtone">റിങ്ടോൺ</string>
+    <string name="edit">തിരുത്തുക</string>
+    <string name="delete_file_dialog">ഫയല്‍ നീക്കം ചെയ്യുക</string>
+    <string name="sharing_files_please_wait">ഫയലുകള്‍ പങ്കുവയ്ക്കുന്നു. കാത്തിരിക്കുക…</string>
+    <string name="block">ബ്ലോക്ക് ചെയ്യുക</string>
+    <string name="delete">നീക്കം ചെയ്യുക</string>
+    <string name="touch_to_fix">അക്കൗണ്ടുകള്‍ കൈകാര്യം ചെയ്യാന്‍ തൊടുക</string>
+    <string name="contacts">സമ്പര്‍ക്കങ്ങള്‍</string>
+    <string name="ok">ശരി</string>
+    <string name="contact">സമ്പര്‍ക്കം</string>
+    <string name="add_contact">സമ്പര്‍ക്കം ചേര്‍ക്കുക</string>
+    <string name="not_in_roster">സമ്പര്‍ക്കപ്പട്ടികയിലില്ലാത്ത ഈ സമ്പര്‍ക്കം ചേര്‍ക്കട്ടെ\?</string>
+    <string name="problem_connecting_to_account">അക്കൗണ്ടുമായി ബന്ധിപ്പിക്കാന്‍ സാധിക്കുന്നില്ല</string>
+    <string name="preparing_image">ചിത്രം അയയ്ക്കാന്‍ തയ്യാറാകുന്നു</string>
+    <string name="clear_histor_msg">ഈ സംഭാഷണത്തിലെ എല്ലാ സന്ദേശങ്ങളും മായ്ക്ക്ണോ\?
+\n
+\n<b>മുന്നറിയിപ്പ്:</b> മറ്റു ഉപകരണങ്ങളിലോ സര്‍വറുകളിലോ സൂക്ഷിച്ചിരിക്കുന്ന സന്ദേശങ്ങളെ ഇത് സ്വാധീനിക്കില്ല.</string>
+    <string name="send_never">വീണ്ടും ചോദിക്കരുത്</string>
+    <string name="attach_file">ഫയല്‍ ചേര്‍ക്കുക</string>
+    <string name="preparing_images">ചിത്രങ്ങള്‍ അയയ്ക്കാന്‍ തയ്യാറാകുന്നു</string>
+    <string name="pref_led_summary">ഒരു പുതിയ സന്ദേശം വരുമ്പോൾ അറിയിപ്പ് ലൈറ്റ് മിന്നിക്കുക</string>
+    <string name="problem_connecting_to_accounts">ഒന്നിലധികം അക്കൗണ്ടുകളുമായി ബന്ധിപ്പിക്കാന്‍ സാധിക്കുന്നില്ല</string>
+    <string name="cancel">റദ്ദു ചെയ്യുക</string>
+    <string name="send_now">ഉടനെ അയയ്ക്കുക</string>
+    <string name="delete_file_dialog_msg">ഈ ഫയല്‍ നീക്കം ചെയ്യണോ\?
+\n
+\n<b>മുന്നറിയിപ്പ്:</b> മറ്റു ഉപകരണങ്ങളിലോ സര്‍വറുകളിലോ സൂക്ഷിച്ചിരിക്കുന്ന ഈ ഫയലിന്റെ പകര്‍പ്പുകളെ ഇത് സ്വാധീനിക്കില്ല. </string>
+    <string name="register_account">സര്‍വറില്‍ പുതിയ അക്കൗണ്ട് രജിസ്റ്റര്‍ ചെയ്യുക</string>
+    <string name="send_failed">സന്ദേശം എത്തിച്ചേര്‍ന്നില്ല</string>
+    <string name="pref_notification_sound">അറിയിപ്പ് ശബ്ദം</string>
+    <string name="change_password_on_server">സര്‍വറില്‍ രഹസ്യവാക്ക് മാറ്റുക</string>
+    <string name="unblock">അണ്‍ബ്ലോക്ക് ചെയ്യുക</string>
+    <string name="add">ചേര്‍ക്കുക</string>
+    <string name="pref_notification_sound_summary">പുതിയ സന്ദേശങ്ങള്‍ക്കുള്ള അറിയിപ്പ് ശബ്ദം</string>
+    <string name="remove_bookmark_text">%s അടയാളക്കുറിപ്പില്‍ നിന്ന് നീക്കം ചെയ്യട്ടെ\? ഈ അടയാളക്കുറിപ്പിലുള്ള സംഭാഷണങ്ങള്‍ നീക്കം ചെയ്യപ്പെടില്ല.</string>
+    <string name="action_clear_history">ഹിസ്റ്ററി മായ്ക്കുക</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hours">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="view_users">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="toast_delete_certificates">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_messages">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_x">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_m_contacts">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="some_messages_could_not_be_delivered">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_unread_conversations">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+</resources>

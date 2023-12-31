@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="minutes_ago">%d मिनिटापूर्वी</string>
+    <string name="admin">प्रशासक</string>
+    <string name="clear_conversation_history">संभाषणाचा इतिहास साफ करा</string>
+    <string name="save">जतन करा</string>
+    <string name="action_block_domain">डोमेन अवरोधित करा</string>
+    <string name="visitor">पाहुणा</string>
+    <string name="remove_contact_text">तुम्ही तुमच्या संपर्क सूचीमधून %s काढून टाकू इच्छिता का\? या संपर्कासह संभाषणे काढली जाणार नाहीत.</string>
+    <string name="set">सेट</string>
+    <string name="action_delete_contact">संपर्कांमधून काढा</string>
+    <string name="channel_details">चॅनल तपशील</string>
+    <string name="blocked">अवरोधित</string>
+    <string name="action_block_contact">संपर्क अवरोधित करा</string>
+    <string name="action_unblock_domain">डोमेन अनावरोधित करा</string>
+    <string name="action_accounts">खाती व्यवस्थापित करा</string>
+    <string name="message_decrypting">संदेश डिक्रिप्ट करत आहे. कृपया थांबा…</string>
+    <string name="unblock_contact_text">तुम्ही %s ला अनब्लॉक करू आणि त्यांना तुम्हाला संदेश पाठवण्याची परवानगी देऊ इच्छिता का\?</string>
+    <string name="crash_report_title">%1$s क्रॅश झाले</string>
+    <string name="edit">सुधारणा करा</string>
+    <string name="delete_file_dialog">फाईल काढून टाका</string>
+    <string name="unblock_domain_text">%s चे सर्व संपर्क अनब्लॉक करायचे\?</string>
+    <string name="sharing_files_please_wait">फाइल्स शेअर करत आहे. कृपया थांबा…</string>
+    <string name="nick_in_use">टोपणनाव आधीपासूनच वापरात आहे</string>
+    <string name="participant">सहभागी</string>
+    <string name="block">अवरोधित करा</string>
+    <string name="action_account">खात्याचे व्यवस्थापन करा</string>
+    <string name="delete">हटवा</string>
+    <string name="touch_to_fix">खाती व्यवस्थापित करण्यासाठी टॅप करा</string>
+    <string name="moderator">नियंत्रक</string>
+    <string name="contacts">संपर्क</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="block_domain_text">%s चे सर्व संपर्क अवरोधित करायचे\?</string>
+    <string name="contact">संपर्क</string>
+    <string name="add_contact">संपर्क जोडा</string>
+    <string name="not_in_roster">तुमच्या संपर्क यादीत हरवलेला संपर्क जोडायचा का\?</string>
+    <string name="problem_connecting_to_account">खात्याशी कनेक्ट करू शकलो नाही</string>
+    <string name="action_unblock_participant">सहभागींना अनावरोधित करा</string>
+    <string name="action_end_conversation">संभाषण बंद करा</string>
+    <string name="just_now">आत्ताच</string>
+    <string name="preparing_image">प्रतिमा पाठवण्यासाठी तयार होत आहे</string>
+    <string name="clear_histor_msg">तुम्हाला या संभाषणातील सर्व संदेश हटवायचे आहेत का\?
+\n
+\n<b>चेतावणी:</b> हे इतर डिव्हाइसेस किंवा सर्व्हरवर संचयित केलेल्या संदेशांना प्रभावित करणार नाही.</string>
+    <string name="block_contact_text">तुम्ही %s ला तुम्हाला संदेश पाठवण्यापासून ब्लॉक करू इच्छिता का\?</string>
+    <string name="action_unblock_contact">संपर्क अनावरोधित करा</string>
+    <string name="invalid_muc_nick">अवैध टोपणनाव</string>
+    <string name="action_edit_contact">नाव सुधारा</string>
+    <string name="invite_contact">संपर्कास आमंत्रित करा</string>
+    <string name="owner">मालक</string>
+    <string name="send_never">पुन्हा कधीही विचारू नका</string>
+    <string name="title_activity_start_conversation">संभाषण सुरू करा</string>
+    <string name="attach_file">फाईल जोडा</string>
+    <string name="title_activity_share_via_account">खात्याद्वारे शेअर करा</string>
+    <string name="preparing_images">प्रतिमा पाठवण्यासाठी तयार होत आहे</string>
+    <string name="pgp_message">OpenPGP एनक्रिप्टेड संदेश</string>
+    <string name="problem_connecting_to_accounts">एकापेक्षा जास्त खात्याशी कनेक्ट करू शकलो नाही</string>
+    <string name="minute_ago">1 मिनिटापूर्वी</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="send_now">आता पाठवा</string>
+    <string name="action_add_account">खाते जोडा</string>
+    <string name="action_muc_details">ग्रुपचॅट तपशील</string>
+    <string name="register_account">सर्व्हरवर नवीन खाते नोंदवा</string>
+    <string name="action_contact_details">संपर्काची माहिती</string>
+    <string name="send_failed">वितरण अयशस्वी</string>
+    <string name="title_activity_block_list">अवरोधित यादी</string>
+    <string name="contact_blocked">संपर्क अवरोधित</string>
+    <string name="sending">पाठवत आहे…</string>
+    <string name="change_password_on_server">सर्व्हरवर पासवर्ड बदला</string>
+    <string name="unblock">अनावरोधित करा</string>
+    <string name="action_settings">सेटिंग्ज</string>
+    <string name="title_activity_manage_accounts">खाती व्यवस्थापित करा</string>
+    <string name="action_block_participant">सहभागींना अवरोधित करा</string>
+    <string name="share_with">सोबत शेअर करा…</string>
+    <string name="action_add_phone_book">पत्ता पुस्तकात जोडा</string>
+    <string name="add">जोडा</string>
+    <string name="remove_bookmark_text">तुम्ही बुकमार्क म्हणून %s काढू इच्छिता\? या बुकमार्कसह संभाषणे काढली जाणार नाहीत.</string>
+    <string name="title_activity_choose_contacts">संपर्क निवडा</string>
+    <plurals name="x_unread_conversations">
+        <item quantity="one">%d न वाचलेले संभाषण</item>
+        <item quantity="other">%d न वाचलेली संभाषणे</item>
+    </plurals>
+    <string name="crash_report_message">स्टॅक ट्रेस पाठवण्यासाठी तुमचे XMPP खाते वापरणे %1$s च्या चालू विकासास मदत करते.</string>
+    <string name="action_add">नवीन संभाषण</string>
+    <string name="action_clear_history">इतिहास साफ करा</string>
+    <string name="start_conversation">संभाषण सुरू करा</string>
+    <string name="invite">आमंत्रित करा</string>
+    <string name="title_activity_choose_contact">संपर्क निवडा</string>
+    <string name="title_activity_sharewith">संभाषणा सहत शेअर करा</string>
+    <string name="title_activity_settings">सेटिंग्ज</string>
+    <string name="also_end_conversation">हे संभाषण नंतर बंद करा</string>
+    <string name="send_message">संदेश पाठवा</string>
+    <string name="send_message_to_x">%s ला संदेश पाठवा</string>
+    <string name="send_unencrypted">एनक्रिप्ट न केलेल पाठवा</string>
+    <string name="waiting">वाट पाहत आहे…</string>
+    <string name="send_omemo_message">एनक्रिप्टेड संदेश पाठवा</string>
+    <string name="offering">अर्पण…</string>
+    <string name="restart">पुन्हा सुरू करा</string>
+    <string name="openkeychain_not_installed">कृपया ओपनकीचेन स्थापित करा</string>
+    <string name="your_nick_has_been_changed">नवीन टोपणनाव वापरात आहे</string>
+    <string name="decryption_failed">डिक्रिप्शन अयशस्वी. कदाचित तुमच्याकडे योग्य खाजगी की नसेल.</string>
+    <string name="delete_file_dialog_msg">तुम्‍हाला खात्री आहे की तुम्‍हाला ही फाईल हटवायची आहे\?
+\n
+\n<b>चेतावणी:</b> हे इतर डिव्हाइसेस किंवा सर्व्हरवर संचयित केलेल्या या फाइलच्या प्रती हटवणार नाही. </string>
+    <string name="choose_presence">साधन निवडा</string>
+    <string name="openkeychain_required">ओपनकीचेन</string>
+    <string name="openkeychain_required_long">%1$s संदेश एन्क्रिप्ट आणि डिक्रिप्ट करण्यासाठी आणि तुमच्या सार्वजनिक की व्यवस्थापित करण्यासाठी &lt;b&gt;OpenKeychain&lt;/b&gt; वापरते.&lt;br&gt;&lt;br&gt;हे GPLv3+ अंतर्गत परवानाकृत आहे आणि F-Droid आणि Google Play वर उपलब्ध आहे.&lt;br&gt;&lt;br &lt;small&gt;(कृपया नंतर %1$s रीस्टार्ट करा.)&lt;/small&gt;</string>
+    <string name="send_omemo_x509_message">v\\एनक्रिप्ट केलेला संदेश पाठवा</string>
+    <string name="send_unencrypted_message">एनक्रिप्ट न केलेला संदेश पाठवा</string>
+    <string name="install">स्थापित करा</string>
+    <string name="no_pgp_key">कोणतीही ओपनपीजीपी की आढळली नाही</string>
+    <string name="send_pgp_message">ओपनपीजीपी एनक्रिप्टेड संदेश पाठवा</string>
+    <string name="pref_attachments">संलग्नके</string>
+    <string name="pref_ringtone">वलयध्वनी</string>
+    <string name="pref_notification_settings">सूचना</string>
+    <string name="contacts_have_no_pgp_keys">तुमचा संदेश एनक्रिप्ट करू शकलो नाही कारण तुमचे संपर्क त्यांच्या सार्वजनिक की घोषित करत नाहीत.
+\n
+\n<small>कृपया त्यांना ओपनपीजीपी सेट करण्यास सांगा.</small></string>
+    <string name="pref_vibrate">कंपन</string>
+    <string name="pref_call_ringtone_summary">येणार्‍या कॉलसाठी वलयध्वनी</string>
+    <string name="pref_notification_grace_period">सवलत अवधी</string>
+    <string name="contact_has_no_pgp_key">तुमचा संदेश एनक्रिप्ट करू शकलो नाही कारण तुमचा संपर्क त्यांची सार्वजनिक की घोषित करत नाही.
+\n
+\n<small>कृपया तुमच्या संपर्कास ओपनपीजीपी सेट करण्यास सांगा.</small></string>
+    <string name="pref_led_summary">नवीन मेसेज आल्यावर नोटिफिकेशन लाइट चमकवा</string>
+    <string name="pref_general">सामान्य</string>
+    <string name="pref_led">एलईडी सूचना</string>
+    <string name="no_pgp_keys">कोणत्याही ओपनपीजीपी की आढळल्या नाहीत</string>
+    <string name="pref_accept_files">फाइल्स स्वीकारा</string>
+    <string name="pref_notification_sound">सूचना ध्वनी</string>
+    <string name="pref_vibrate_summary">नवीन संदेश आल्यावर कंपन करा</string>
+    <string name="pref_notification_sound_summary">नवीन संदेशासाठी सूचना ध्वनी</string>
+    <string name="pref_accept_files_summary">...पेक्षा लहान असलेल्या फाइल्स आपोआप स्वीकारा</string>
+    <plurals name="hours">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="view_users">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="toast_delete_certificates">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_messages">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_x">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_m_contacts">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="some_messages_could_not_be_delivered">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <string name="pref_confirm_messages_summary">तुम्‍हाला तुमच्‍या संपर्कांना कळू द्या की तुम्‍हाला त्‍यांचे मेसेज केव्‍हा मिळाले आणि वाचा</string>
+    <string name="pref_never_send_crash_summary">स्टॅक ट्रेस पाठवून तुम्ही विकासाला मदत करत आहात</string>
+    <string name="pref_advanced_options">प्रगत</string>
+    <string name="pref_ui_options">यु आय</string>
+    <string name="pref_prevent_screenshots">स्क्रीनशॉट प्रतिबंधित करा</string>
+    <string name="pref_prevent_screenshots_summary">ॲप स्विचरमध्ये ॲप सामग्री लपवा आणि स्क्रीनशॉट ब्लॉक करा</string>
+    <string name="pref_never_send_crash">क्रॅश रिपोर्ट कधीही पाठवू नका</string>
+    <string name="pref_notification_grace_period_summary">तुमच्‍या इतर डिव्‍हाइसमध्‍ये अ‍ॅक्टिव्हिटी डिटेक्ट केल्‍यानंतर सूचना शांत केल्या जातात.</string>
+    <string name="pref_confirm_messages">संदेशांची पुष्टी करा</string>
+    <string name="openpgp_error">OpenKeychain ने त्रुटी निर्माण केली.</string>
+    <string name="bad_key_for_encryption">एनक्रिप्शनसाठी की खराब आहे.</string>
+    <string name="accept">स्वीकारा</string>
+</resources>

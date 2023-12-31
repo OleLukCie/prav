@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_details">চ্যানেলের বিবরণ</string>
+    <string name="action_accounts">অ্যাকাউন্টগুলি পরিচালনা করুন</string>
+    <string name="action_account">অ্যাকাউন্টটি পরিচালনা করুন</string>
+    <string name="action_end_conversation">কথাবার্তা প্রস্থান করুণ</string>
+    <string name="action_add_account">অ্যাকাউন্ট অ্যাড করুণ</string>
+    <string name="action_muc_details">গ্রুপ চ্যাটের বিবরণ</string>
+    <string name="action_contact_details">যোগাযোগের ঠিকানা</string>
+    <string name="action_settings">সেটিংস</string>
+    <string name="action_add">নতুন কথাবার্তা</string>
+    <string name="action_edit_contact">নাম সম্পাদনা করুন</string>
+    <string name="also_end_conversation">কথাবার্তাটি পুনরায় বন্ধ করুন</string>
+    <string name="minutes_ago">%d মিনিট আগে</string>
+    <string name="admin">অ্যাডমিন</string>
+    <string name="clear_conversation_history">কথাবার্তাগুলির ইতিহাস মুছুন</string>
+    <string name="save">সেভ করুন</string>
+    <string name="action_block_domain">ডোমেন ব্লক করুন</string>
+    <string name="visitor">দর্শক</string>
+    <string name="remove_contact_text">আপনি কি %s-কে আপনার যোগাযোগের তালিকা থেকে বাদ দিতে চান\? তালিকে থেকে বাদ দিলে আপনার এই যোগাযোগের সাথে কথাবার্তাগুলি মুছবে না।</string>
+    <string name="set">রেখে দিন</string>
+    <string name="title_activity_sharewith">কথাবার্তার সঙ্গে শেয়ার করুন</string>
+    <string name="pref_attachments">অ্যাটাচমেন্টসমূহ</string>
+    <string name="send_message">বার্তা পাঠান</string>
+    <string name="action_delete_contact">যোগাযোগ থেকে সরান</string>
+    <string name="blocked">প্রতিরোধিত</string>
+    <string name="action_block_contact">যোগাযোগ ব্লক করুন</string>
+    <string name="action_unblock_domain">ডোমেন আনব্লক করুন</string>
+    <string name="message_decrypting">মেসেজ ডিক্রিপ্ট করা হচ্ছে। কিছুক্ষণ অপেক্ষা করুন…</string>
+    <string name="unblock_contact_text">আপনি %s-কে আনব্লক করে ওনাকে মেসেজ পাঠাতে দিতে চান\?</string>
+    <string name="crash_report_title">%1$s ক্র্যাশ করেছে</string>
+    <string name="pref_ringtone">রিংটোন</string>
+    <string name="edit">সম্পাদনা করুন</string>
+    <string name="send_message_to_x">%s-কে বার্তা পাঠান</string>
+    <string name="pref_notification_settings">নোটিফিকেশন</string>
+    <string name="delete_file_dialog">ফাইল মুছুন</string>
+    <string name="unblock_domain_text">%s-এর থেকে সব যোগাযোগ আনব্লক করতে চান\?</string>
+    <string name="sharing_files_please_wait">ফাইলগুলি শেয়ার করা হচ্ছে। প্রতীক্ষা করুন…</string>
+    <string name="nick_in_use">ডাকনাম ইতোমধ্যে ব্যবহৃত হচ্ছে</string>
+    <string name="participant">অংশগ্রহণকারী</string>
+    <string name="contacts_have_no_pgp_keys">আপনার বার্তা এনক্রিপ্ট করা যায়নি। আপনার যোগাযোগগুলি নিজেদের পাব্লিক কি জানাচ্ছে না।
+\n
+\n<small>দয়া করে আপনার যোগাযোগদের OpenPGP সেট-আপ করতে বলুন।</small></string>
+    <string name="block">ব্লক করুন</string>
+    <string name="pref_vibrate">কম্পন</string>
+    <string name="pref_call_ringtone_summary">আগমন কলের জন্য রিংটোন</string>
+    <string name="delete">মুছে দিন</string>
+    <string name="touch_to_fix">ট্যাপ করে আপনার অ্যাকাউন্ট পরিচালনা করুন</string>
+    <string name="moderator">মডারেটর</string>
+    <string name="contacts">যোগাযোগ-এর তালিকা</string>
+    <string name="ok">ওকে</string>
+    <string name="block_domain_text">%s-এর থেকে সব যোগাযোগ ব্লক করতে চান\?</string>
+    <string name="send_unencrypted">আনএনক্রিপ্টেড পাঠান</string>
+    <string name="contact">যোগাযোগ</string>
+    <string name="waiting">প্রতীক্ষা করা হচ্ছে…</string>
+    <string name="pref_notification_grace_period">গ্রেস পিরিয়ড</string>
+    <string name="add_contact">যোগাযোগ-কে অ্যাড করুন</string>
+    <string name="send_omemo_message">এনক্রিপ্টেড বার্তা পাঠান</string>
+    <string name="not_in_roster">এই নিরুদ্দিষ্ট যোগাযোগকে তালিকায় অ্যাড করবেন\?</string>
+    <string name="problem_connecting_to_account">অ্যাকাউন্টের সঙ্গে সংযোগ করা যাচ্ছে না</string>
+    <string name="action_unblock_participant">অংশগ্রহণকারীকে আনব্লক করুন</string>
+    <string name="just_now">এখুনি</string>
+    <string name="preparing_image">ছবি পাঠাতে তৈরি হচ্ছে</string>
+    <string name="clear_histor_msg">আপনি এই কথাবার্তার সব বার্তাগুলি মুছতে চান\?
+\n
+\n<b>বিজ্ঞপ্তিঃ</b>এর দ্বারা এই বার্তাগুলি অন্যান্য ডিভাইস ও সার্ভার থেকে মুছবে না।</string>
+    <string name="block_contact_text">আপনি %s-কে আপনাকে বার্তা পাঠানো থেকে প্করতিরোধ করতে চান\?</string>
+    <string name="action_unblock_contact">যোগাযোগ আনব্লক করুন</string>
+    <string name="offering">প্রদান করা হচ্ছে…</string>
+    <string name="invalid_muc_nick">অবৈধ ডাকনাম</string>
+    <string name="contact_has_no_pgp_key">আপনার বার্তা এনক্রিপ্ট করা যায়নি। আপনার যোগাযোগ নিজের পাব্লিক কি জানাচ্ছে না।
+\n
+\n<small>দয়া করে আপনার যোগাযোগকে OpenPGP সেট-আপ করতে বলুন।</small></string>
+    <string name="invite_contact">যোগাযোগ-কে আমন্ত্রণ করুন</string>
+    <string name="restart">রিস্টার্ট করুন</string>
+    <string name="owner">মালিক</string>
+    <string name="send_never">কখনও জিজ্ঞেস করবেন না</string>
+    <string name="title_activity_start_conversation">কথাবার্তা শুরু করুন</string>
+    <string name="openkeychain_not_installed">দয়া করে OpenKeychain ইনস্টল করুন</string>
+    <string name="attach_file">ফাইল যোগ করুন</string>
+    <string name="title_activity_share_via_account">অ্যাকাউন্ট বেছে শেয়ার করুন</string>
+    <string name="preparing_images">ছবিগুলি পাঠাতে তৈরি হচ্ছে</string>
+    <string name="pgp_message">OpenPGP-দ্বারা এনক্রিপ্টেড বার্তা</string>
+    <string name="pref_led_summary">বার্তা এলে নোটিফিকেশনের আলো মিট্মিট হবে</string>
+    <string name="problem_connecting_to_accounts">একাধিক অ্যাকাউন্টের সঙ্গে সংযোগ করা যাচ্ছে না</string>
+    <string name="pref_general">সাধারণ</string>
+    <string name="minute_ago">১ মিনিট আগে</string>
+    <string name="your_nick_has_been_changed">নতুন ডাকনাম ইতিমধ্যে ব্যবহৃত</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="send_now">এখুনি পাঠান</string>
+    <string name="pref_led">LED নোটিফিকেশন</string>
+    <string name="decryption_failed">ডিক্রিপশন করা যায়নি। আপনার কাছে সম্ভবত সঠিক প্রাইভেট কি নেই।</string>
+    <string name="delete_file_dialog_msg">আপনি এই ফাইলটি মুছতে চান\?
+\n
+\n<b>বিজ্ঞপ্তিঃ</b>এর দ্বারা এই ফাইলটি অন্যান্য ডিভাইস বা সার্ভার থেকে মুছবে না। </string>
+    <string name="title_activity_settings">সেটিংস</string>
+    <string name="choose_presence">ডিভাইস বেছে নিন</string>
+    <string name="no_pgp_keys">কোনও OpenPGP কি পাওয়া যায়নি</string>
+    <string name="pref_accept_files">ফাইল স্বীকার করুন</string>
+    <string name="send_failed">ডেলিভারি করা যায়নি</string>
+    <string name="title_activity_block_list">ব্লকলিস্ট</string>
+    <string name="contact_blocked">অবরুধ্য যোগাযোগ</string>
+    <string name="pref_notification_sound">নোটিফিকেশনের আওয়াজ</string>
+    <string name="openkeychain_required">OpenKeychain</string>
+    <string name="sending">যাচ্ছে…</string>
+    <string name="pref_vibrate_summary">নতুন বার্তা এলে কম্পন হবে</string>
+    <string name="unblock">আনব্লক করুন</string>
+    <string name="title_activity_manage_accounts">অ্যাকাউন্টগুলি পরিচালনা করুন</string>
+    <string name="openkeychain_required_long">%1$s বার্তা এনক্রিপশন, ডিক্রিপশন ও পাব্লিক কি-গুলি সামলানোর জন্যে OpenKeychain ব্যবহার করে।&lt;br&gt;&lt;br&gt;এটি GPLv3 ও তার পরবর্তি সংস্করণ দ্বারা অনুমতিপ্রাপ্ত করা হয়েছে। এটি F-Droid ও Google Play-থেকে ডাউনলোড করতে পারেন।&lt;br&gt;&lt;br&gt;&lt;small&gt;(দয়া করে পুনরায় %1$s রিস্টার্ট করুন।)&lt;/small&gt;</string>
+    <string name="send_omemo_x509_message">OMEMO-দ্বারা এনক্রিপ্টেড বার্তা পাঠান</string>
+    <string name="send_unencrypted_message">আনএনক্রিপ্টেড বার্তা পাঠান</string>
+    <string name="action_block_participant">অংশগ্রহণকারীকে ব্লক করুন</string>
+    <string name="install">ইনস্টল করুন</string>
+    <string name="share_with">শেয়ার করুন…</string>
+    <string name="action_add_phone_book">অ্যাড্রেস বুকে অ্যাড করুন</string>
+    <string name="add">অ্যাড করুন</string>
+    <string name="pref_notification_sound_summary">নতুন বার্তার জন্যে নোটিফিকেশনের আওয়াজ</string>
+    <string name="remove_bookmark_text">আপনি %s-কে বুকমার্ক-এর থেকে সরাতে চান\? বুকমার্কটি সরালে এই যোগাযোগের সাথে কথাবার্তাগুলি মুছবে না।</string>
+    <string name="title_activity_choose_contacts">যোগাযোগগুলি বেছে নিন</string>
+    <plurals name="x_unread_conversations">
+        <item quantity="one">%d অপঠিত বার্তা</item>
+        <item quantity="other">%d অপঠিত বার্তা</item>
+    </plurals>
+    <string name="crash_report_message">আপনার XMPP অ্যাকাউন্ট ব্যবহার করা কালীন \"স্ট্যাক ট্রেস\" পাঠালে %1$s-এর চলমান বিকাশে সহায়তা করে।</string>
+    <string name="action_clear_history">ইতিহাস মুছুন</string>
+    <string name="pref_accept_files_summary">-এর থেকে কম হলে স্বয়ংক্রিয়ভাবে ফাইল স্বীকার করুন</string>
+    <string name="no_pgp_key">কোনও OpenPGP কি পাওয়া যায়নি</string>
+    <string name="start_conversation">কথাবার্তা শুরু করুন</string>
+    <string name="invite">আমন্ত্রণ করুন</string>
+    <string name="send_pgp_message">OpenPGP-দ্বারা এনক্রিপ্টেড বার্তা পাঠান</string>
+    <string name="title_activity_choose_contact">যোগাযোগ বেছে নিন</string>
+    <string name="your_account">আপনার অ্যাকাউন্ট</string>
+    <string name="attach_take_picture">ছবি তুলুন</string>
+    <string name="error_not_an_image_file">আপনার বেছে নেওয়া ফাইলটি ছবি নয়</string>
+    <string name="pref_confirm_messages_summary">আপনার যোগাযোগদের জানতে দিন যখন আপনি তাদের বার্তা পেয়েছেন ও দেখেছেন</string>
+    <string name="receive_presence_updates">অন্যের উপস্থিতির আপডেট পান</string>
+    <string name="error_file_not_found">ফাইলটি পাওয়া যায়নি</string>
+    <string name="attach_choose_picture">ছবি বেছে নিন</string>
+    <string name="error_io_exception">সাধারণ I/O-র সমস্যা। আপনার স্টোরেজ সম্পূর্ণভাবে ভর্তি হয়ে গেছে\?</string>
+    <string name="openpgp_error">OpenKeychain একটি সমস্যা তৈরি করেছে।</string>
+    <string name="pref_ui_options">ইউজার ইন্টারফেস</string>
+    <string name="pref_prevent_screenshots">স্ক্রিনশট তোলা প্রতিরোধ করুন</string>
+    <string name="error_compressing_image">ছবির ফাইলটি কনভার্ট করা যায়নি</string>
+    <string name="pref_prevent_screenshots_summary">অ্যাপ সুইচারে এই অ্যাপের বিষয়বস্তু লুকান ও স্ক্রিনশট প্রতিরোধ করুন</string>
+    <string name="send_presence_updates">আপনার উপস্থিতির আপডেট পাঠান</string>
+    <string name="ask_for_presence_updates">অন্যের উপস্থিতির আপডেট চান</string>
+    <string name="preemptively_grant">সাবস্ক্রিপশনের অনুরোধ অগ্রিম অনুদান করুন</string>
+    <string name="register_account">সার্ভার বেছে নতুন অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="error">একটি সমস্যা হয়েছে</string>
+    <string name="bad_key_for_encryption">এনক্রিপশনের জন্য কি-টি ভালো নয়।</string>
+    <string name="change_password_on_server">সার্ভার বেছে পাসওয়ার্ড বদল করুন</string>
+    <string name="pref_notification_grace_period_summary">আপনার অন্যান্য কোনও ডিভাইসে অ্যাক্টিভিটি সনাক্ত হলে যেই সময়ের পরে এই ডিভাইসে নোটিফিকেশন নিঃশব্দ হবে।</string>
+    <string name="accept">স্বীকার করুন</string>
+    <string name="pref_confirm_messages">বার্তাগুলি নিশ্চিত করুন</string>
+    <string name="recording_error">সমস্যা</string>
+    <string name="account_status_unauthorized">অননুমোদিত</string>
+    <string name="account_status_no_internet">ইন্টারনেট নেই</string>
+    <string name="account_status_disabled">সাময়িকভাবে বন্ধ</string>
+    <string name="account_status_regis_not_sup">সার্ভার রেজিস্ট্রেশন সমর্থন করে না</string>
+    <string name="account_status_regis_success">রেজিস্ট্রেশন সম্পূর্ণ</string>
+    <string name="account_status_online">অনলাইন</string>
+    <string name="pref_never_send_crash_summary">স্ট্যাক ট্রেস পাঠালে আপনি অ্যাপের উন্নয়নে সাহায্য করবেন</string>
+    <string name="pref_advanced_options">প্রযুক্তিগত</string>
+    <string name="account_status_unknown">অজানা</string>
+    <string name="account_status_regis_conflict">এই ইউজারনেমটি আরেকজন নিয়ে নিয়েছে</string>
+    <string name="pref_never_send_crash">কখনো কোনো ক্র্যাশ রিপোর্ট পাঠাবেন না</string>
+    <string name="account_status_connecting">সংযোগ করা হচ্ছে…</string>
+    <string name="account_status_not_found">সার্ভার খুঁজে পাওয়া না</string>
+    <string name="account_status_regis_fail">রেজিস্ট্রেশন ব্যর্থ</string>
+    <string name="error_security_exception_during_image_copy">আপনি যে অ্যাপ দিয়ে এই ছবিটি বেছেছেন, সে ওই ফাইলটি আমাদের পড়ার জন্য যথেষ্ট অনুমতি দেয়নি।
+\n
+\n<small>কোনো অন্য ফাইল ম্যানেজার ব্যবহার করুন ছবিটি বাছার জন্য</small>।</string>
+    <string name="account_status_offline">অফলাইন</string>
+    <plurals name="hours">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="view_users">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="toast_delete_certificates">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="x_messages">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_x">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="n_missed_calls_from_m_contacts">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="some_messages_could_not_be_delivered">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one"/>
+        <item quantity="other"/>
+    </plurals>
+</resources>

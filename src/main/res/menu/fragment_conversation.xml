@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_ongoing_call"
+        android:icon="?attr/icon_ongoing_call"
+        android:orderInCategory="9"
+        android:title="@string/return_to_ongoing_call"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_call"
+        android:icon="?attr/icon_call"
+        android:orderInCategory="10"
+        android:title="@string/make_call"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_audio_call"
+                android:icon="?attr/ic_make_audio_call"
+                android:title="@string/audio_call" />
+            <item
+                android:id="@+id/action_video_call"
+                android:icon="?attr/ic_make_video_call"
+                android:title="@string/video_call" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_security"
+        android:icon="?attr/icon_not_secure"
+        android:orderInCategory="20"
+        android:title="@string/encrypted_with_omemo"
+        app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/encryption_choice_none"
+                    android:title="@string/encryption_choice_unencrypted" />
+                <item
+                    android:id="@+id/encryption_choice_axolotl"
+                    android:title="@string/encryption_choice_omemo" />
+                <item
+                    android:id="@+id/encryption_choice_pgp"
+                    android:title="@string/encryption_choice_pgp" />
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_attach_file"
+        android:icon="?attr/icon_new_attachment"
+        android:orderInCategory="30"
+        android:title="@string/attach_file"
+        app:showAsAction="always">
+        <menu>
+
+            <item
+                android:id="@+id/attach_choose_file"
+                android:icon="?attr/ic_attach_document"
+                android:title="@string/choose_file" />
+
+            <item
+                android:id="@+id/attach_choose_picture"
+                android:icon="?attr/ic_attach_photo"
+                android:title="@string/attach_choose_picture" />
+
+            <item
+                android:id="@+id/attach_take_picture"
+                android:icon="?attr/ic_attach_camera"
+                android:title="@string/attach_take_picture" />
+
+            <item
+                android:id="@+id/attach_record_video"
+                android:icon="?attr/ic_attach_videocam"
+                android:title="@string/attach_record_video" />
+
+            <item
+                android:id="@+id/attach_record_voice"
+                android:icon="?attr/ic_attach_record"
+                android:title="@string/attach_record_voice" />
+
+            <item
+                android:id="@+id/attach_location"
+                android:icon="?attr/ic_attach_location"
+                android:title="@string/send_location" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_contact_details"
+        android:orderInCategory="40"
+        android:title="@string/action_contact_details"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_muc_details"
+        android:icon="?attr/icon_group"
+        android:orderInCategory="40"
+        android:title="@string/action_muc_details"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_invite"
+        android:orderInCategory="45"
+        android:title="@string/invite_contact"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="48"
+        android:title="@string/search_messages"
+        android:visible="@bool/show_individual_search_options"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear_history"
+        android:orderInCategory="50"
+        android:title="@string/action_clear_history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_archive"
+        android:orderInCategory="60"
+        android:title="@string/action_end_conversation"
+        app:showAsAction="never" />
+    <item
+        android:orderInCategory="70"
+        android:title="@string/more_options">
+        <menu>
+            <item
+                android:id="@+id/action_mute"
+                android:orderInCategory="71"
+                android:title="@string/disable_notifications"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/action_unmute"
+                android:orderInCategory="72"
+                android:title="@string/enable_notifications"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_toggle_pinned"
+                android:orderInCategory="73"
+                android:title="@string/add_to_favorites"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+
+</menu>
