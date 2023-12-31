@@ -1,0 +1,11 @@
+- Get a better colourscheme
+- Custom BGs for groups (backport from monocles I guess)
+- Receipts in main page (backport from monocles)
+- Use logo instead of Prav text in main page
+- Put search button in main menu (in chats and main page)
+- Abstract default bg in chats
+- Per-chat notification settings
+- Online/Offline indicator
+- Make delete from roster more visible
+- Long click on people for options in main page
+- Automatic backups
