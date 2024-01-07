@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_notification_grace_period_summary">The length of time Prav keeps quiet after seeing activity on another device</string>
+    <string name="pref_never_send_crash_summary">By sending in stack traces you are helping the ongoing development of Prav</string>
+    <string name="pref_broadcast_last_activity_summary">Let all your contacts know when you use Prav</string>
+    <string name="huawei_protected_apps_summary">To keep receiving notifications, even when the screen is turned off, you need to add Prav to the list of protected apps.</string>
+    <string name="set_profile_picture">Prav profile picture</string>
+    <string name="not_available_in_your_country">Prav is not available in your country.</string>
+    <string name="unable_to_verify_server_identity">Unable to verify server identity.</string>
+    <string name="unknown_security_error">Unknown security error.</string>
+    <string name="timeout_while_connecting_to_server">Timeout while connecting to server.</string>
+    <string name="change_language">Change language</string>
+    <string name="import_backup">Restore from Backup</string>
+</resources>

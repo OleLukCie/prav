@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="huawei_protected_apps_summary">സ്ക്രീൻ അണഞ്ഞിരിക്കുമ്പോഴും സന്ദേശങ്ങൾ വരാൻ പ്രാവിനെ സംരക്ഷിത ആപ്പുകളുടെ പട്ടികയിലേയ്ക്ക് ചേർക്കണം.</string>
+    <string name="import_backup">ബായ്ക്കപ്പിൽ നിന്ന് തിരിച്ചെടുക്കുക</string>
+    <string name="pref_never_send_crash_summary">സറ്റാക്ക് ട്രേസുകൾ അയക്കുന്നതിലൂടെ നിങ്ങൾ പ്രാവ് ആപ്പിന്റെ നിർമാണത്തിൽ പങ്കാളിയാകുന്നു</string>
+    <string name="unable_to_verify_server_identity">സെർവ്വറിന്റെ ആധികാരികത പരിശോധിക്കാനാകുന്നില്ല.</string>
+    <string name="unknown_security_error">അജ്ഞാത സുരക്ഷാ പ്രശ്നം.</string>
+    <string name="timeout_while_connecting_to_server">സെർവറിലോട്ട് ബന്ധിപ്പിക്കാൻ വൈകി.</string>
+    <string name="not_available_in_your_country">പ്രാവ് നിങ്ങളുടെ രാജ്യത്ത് ലഭ്യമല്ല.</string>
+    <string name="set_profile_picture">പ്രാവ് പ്രൊഫൈൽ ചിത്രം</string>
+    <string name="pref_notification_grace_period_summary">വേറേ ഉപകരണത്തിൽ പ്രവർത്തി കണ്ടിട്ടും പ്രാവ് വെറുതേ ഇരിക്കേണ്ട സമയം</string>
+    <string name="change_language">ഭാഷ മാറ്റുക</string>
+    <string name="pref_broadcast_last_activity_summary">നിങ്ങളുടെ എല്ലാ സമ്പർക്കങ്ങളേയും പ്രാവ് ഉപയോഗിക്കുമ്പോൾ അറിയുക്കുക</string>
+</resources>
